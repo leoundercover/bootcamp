@@ -1,4 +1,4 @@
-//Função lambda para teste
+//REMOVIDO CABEÇALHO ANTERIOR
 'use strict';
 console.log('Loading function');
 
